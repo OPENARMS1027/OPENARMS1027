@@ -71,26 +71,18 @@
 
 <hr />
 
-<!-- Experience -->
-<div align="center" style="max-width: 600px; margin: 0 auto;">
+### 💻 Experience
 
-  <h2 style="font-size: 2em; font-weight: 700; margin-bottom: 0.4em;">💻 Experience</h2>
+<div style="font-size: 1.2em; line-height: 1.6; max-width: 600px;">
 
-  <div style="margin-bottom: 2em; text-align: left; border: 2px solid #ddd; border-radius: 10px; padding: 1.5em;">
-    <h3 style="font-size: 1.4em; font-weight: 600; color: #333; margin-bottom: 0.5em;">Education</h3>
-    <p style="font-size: 1.1em; line-height: 1.5; margin: 0;">
-      Korea Maritime University<br />
-      Bachelor of Science (B.S.)<br />
-      March 2017 – February 2023<br />
-      Graduated
-    </p>
-  </div>
+  <h4 style="font-size: 1.4em; margin-bottom: 0.2em;">🎓 Education</h4>
+  <p style="font-weight: 700; margin: 0;">Korea Maritime University</p>
+  <p style="margin: 0;">Bachelor of Science (B.S.)</p>
+  <p style="margin: 0 0 1em 0;">March 2017 – February 2023</p>
+  <p style="font-style: italic; margin-top: 0;">Graduated</p>
 
-  <div style="margin-bottom: 2em; text-align: left; border: 2px solid #ddd; border-radius: 10px; padding: 1.5em;">
-    <h3 style="font-size: 1.4em; font-weight: 600; color: #333; margin-bottom: 0.5em;">Activity</h3>
-    <p style="font-size: 1.1em; line-height: 1.5; margin: 0;">
-      Studying at SSAFY since January 2025.
-    </p>
-  </div>
+  <h4 style="font-size: 1.4em; margin-top: 1.2em; margin-bottom: 0.2em;">📚 Activity</h4>
+  <p style="margin: 0;">Studying at <strong>SSAFY</strong> since January 2025.</p>
 
 </div>
+
