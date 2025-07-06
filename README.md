@@ -73,7 +73,7 @@
 
 ### 💻 Experience
 
-<div style="font-size: 1.2em; line-height: 1.6; max-width: 600px;">
+<div align="center" style="max-width: 600px; margin: 0 auto; text-align: center;">
 
   <h4 style="font-size: 1.4em; margin-bottom: 0.2em;">🎓 Education</h4>
   <p style="font-weight: 700; margin: 0;">Korea Maritime University</p>
@@ -85,4 +85,5 @@
   <p style="margin: 0;">Studying at <strong>SSAFY</strong> since January 2025.</p>
 
 </div>
+
 
