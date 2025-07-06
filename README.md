@@ -71,5 +71,12 @@
 
 ### 💻 Experience
 
+#### Education
+Korea Maritime University  
+Bachelor of Science (B.S.)  
+March 2017 – February 2023  
+Graduated
+
 #### Activity
-<!-- 여기에 활동이나 프로젝트 경험 작성 -->
+Studying at SSAFY since January 2025.
+
