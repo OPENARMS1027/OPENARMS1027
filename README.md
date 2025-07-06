@@ -1,6 +1,6 @@
 <!-- Title Banner -->
 <p align="center">
-  <img src="ㅇㄴㅇㄴㅇ.jpg" alt="Typing SVG" />
+  <img src="images/ㅇㄴㅇㄴㅇ.jpg" alt="Typing SVG" />
 </p>
 
 <h1 align="center">💻 Jinmo LEE's GitHub Portfolio</h1>
