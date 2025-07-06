@@ -71,8 +71,6 @@
 
 <hr />
 
-### 💻 Experience
-
 <!-- Experience -->
 <div align="center" style="max-width: 600px; margin: 0 auto; text-align: center;">
 
