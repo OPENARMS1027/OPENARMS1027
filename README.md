@@ -20,7 +20,7 @@
 <hr />
 
 <!-- About Me -->
-<p align="center" style="font-size: 1.3em; line-height: 1.6; font-weight: 500;">
+<p align="center" style="font-size: 1.5em; line-height: 1.6; font-weight: 600; margin-bottom: 0.5em;">
   👋 I'm <strong>Jinmo LEE</strong>, currently studying at <strong>SSAFY</strong>.<br />
   💬 I’m a <strong>Front-End</strong> developer.<br />
   🚀 Always willing to solve problems actively and accept feedback.
@@ -73,16 +73,29 @@
 
 ### 💻 Experience
 
+<!-- Experience -->
 <div align="center" style="max-width: 600px; margin: 0 auto; text-align: center;">
 
-  <h4 style="font-size: 1.4em; margin-bottom: 0.2em;">🎓 Education</h4>
-  <p style="font-weight: 700; margin: 0;">Korea Maritime University</p>
-  <p style="margin: 0;">Bachelor of Science (B.S.)</p>
-  <p style="margin: 0 0 1em 0;">March 2017 – February 2023</p>
-  <p style="font-style: italic; margin-top: 0;">Graduated</p>
+  <h3 style="font-size: 1.4em; margin-bottom: 0.2em;">💻 Experience</h3>
 
-  <h4 style="font-size: 1.4em; margin-top: 1.2em; margin-bottom: 0.2em;">📚 Activity</h4>
-  <p style="margin: 0;">Studying at <strong>SSAFY</strong> since January 2025.</p>
+  <h4 style="font-size: 1.35em; margin-bottom: 0.3em;">🎓 Education</h4>
+  <p style="font-weight: 700; font-size: 1.15em; margin: 0;">
+    Korea Maritime University
+  </p>
+  <p style="font-size: 1.15em; margin: 0;">
+    Bachelor of Science (B.S.)
+  </p>
+  <p style="font-size: 1.15em; margin: 0 0 1em 0;">
+    March 2017 – February 2023
+  </p>
+  <p style="font-style: italic; font-size: 1.1em; margin-top: 0;">
+    Graduated
+  </p>
+
+  <h4 style="font-size: 1.35em; margin-top: 1.2em; margin-bottom: 0.3em;">📚 Activity</h4>
+  <p style="font-size: 1.15em; margin: 0;">
+    Studying at <strong>SSAFY</strong> since January 2025.
+  </p>
 
 </div>
 
