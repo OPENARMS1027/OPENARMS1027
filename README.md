@@ -1,3 +1,31 @@
+<!-- Title Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F78C6C&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Jinmo+LEE!;Front-End+Developer+%F0%9F%9A%80;Currently+studying+at+SSAFY!" alt="Typing SVG" />
+</p>
+
+<h1 align="center">💻 Jinmo LEE's GitHub Portfolio</h1>
+
+<p align="center">
+  <strong>🚀 Passionate about building seamless UI · Learning in public · Open to collaboration</strong>
+</p>
+
+<p align="center">
+  <a href="mailto:lsoul1028@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/lsoul1028">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.notion.so/">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### About Me
+
+
 ### About Me
 
 - 👋 I'm **Jinmo LEE**, currently studying at **SSAFY**.  
