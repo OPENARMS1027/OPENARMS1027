@@ -1,6 +1,6 @@
 <!-- Title Banner -->
 <p align="center">
-  <img src="https://github.com/OPENARMS1027/OPENARMS1027/raw/main/images/ㅇㄴㅇㄴㅇ.jpg" width="200" alt="Profile" />
+  <img src="https://github.com/OPENARMS1027/OPENARMS1027/raw/master/images/ㅇㄴㅇㄴㅇ.jpg" width="200" alt="Profile" />
 </p>
 
 <h1 align="center">💻 Jinmo LEE's GitHub Portfolio</h1>
