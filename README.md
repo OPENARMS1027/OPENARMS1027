@@ -1,6 +1,6 @@
 <!-- Title Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F78C6C&center=true&vCenter=true&width=500&lines=Hi+there+👋+I'm+Jinmo+LEE!;Front-End+Developer+%F0%9F%9A%80;Currently+studying+at+SSAFY!" alt="Typing SVG" />
+  <img src="ㅇㄴㅇㄴㅇ.jpg" alt="Typing SVG" />
 </p>
 
 <h1 align="center">💻 Jinmo LEE's GitHub Portfolio</h1>
