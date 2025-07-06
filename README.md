@@ -3,10 +3,7 @@
 - 👋 I'm **Jinmo LEE**, currently studying at **SSAFY**.
 - 💬 I’m **Front-End** developer.  
 - 🚀 I’m always willing to solve problems actively and accept feedback.
-
-
-[![Tistory Badge](https://img.shields.io/badge/Blog-Yuri's%20Dev%20Note-ff69b4)](https://jiyusu99.tistory.com/)  
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:99jiyusu@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:lsoul1028@gmail.com)
 
 ---
 
