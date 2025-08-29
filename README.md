@@ -61,13 +61,16 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" style="height: 42px; margin: 0 8px;" />
 </div>
 
-<div align="center" style="font-size: 1.2em; margin-bottom: 3em;">
-  <strong>Tools & Collaboration</strong><br />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="height: 42px; margin: 0 8px;" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="height: 42px; margin: 0 8px;" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" style="height: 42px; margin: 0 8px;" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" style="height: 42px; margin: 0 8px;" />
+<div align="center" style="font-size: 1.2em; margin-bottom: 2em;">
+  <strong>Frontend</strong><br />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5" style="height: 42px; margin: 0 8px;" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3" style="height: 42px; margin: 0 8px;" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React" style="height: 42px; margin: 0 8px;" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" alt="Vue.js" style="height: 42px; margin: 0 8px;" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" alt="Vite" style="height: 42px; margin: 0 8px;" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white" alt="Electron" style="height: 42px; margin: 0 8px;" />
 </div>
+
 
 <hr />
 
