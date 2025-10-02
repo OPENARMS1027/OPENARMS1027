@@ -43,15 +43,6 @@
 </div>
 
 <div align="center" style="font-size: 1.2em; margin-bottom: 2em;">
-  <strong>Frontend</strong><br />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5" style="height: 42px; margin: 0 8px;" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3" style="height: 42px; margin: 0 8px;" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React" style="height: 42px; margin: 0 8px;" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" alt="Vue.js" style="height: 42px; margin: 0 8px;" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" alt="Vite" style="height: 42px; margin: 0 8px;" />
-</div>
-
-<div align="center" style="font-size: 1.2em; margin-bottom: 2em;">
   <strong>Backend</strong><br />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" alt="Django" style="height: 42px; margin: 0 8px;" />
 </div>
@@ -69,7 +60,9 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" alt="Vue.js" style="height: 42px; margin: 0 8px;" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" alt="Vite" style="height: 42px; margin: 0 8px;" />
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white" alt="Electron" style="height: 42px; margin: 0 8px;" />
+  <img src="https://img.shields.io/badge/Emotion-DB7093?style=flat-square&logo=emotion&logoColor=white" alt="Emotion" style="height: 42px; margin: 0 8px;" />
 </div>
+
 
 
 <hr />
