@@ -94,10 +94,10 @@
   <h4 style="font-size: 1.35em; margin-top: 1.4em; margin-bottom: 0.3em;">🏆 Awards</h4>
   <p align="left" style="display: inline-block; text-align: center; font-size: 1.15em; line-height: 1.6; margin: 0 auto;">
   <p style="font-size: 1.15em; margin: 0;">
-    공통 프로젝트 최우수상
+    [공통 프로젝트 최우수상](https://github.com/OPENARMS1027/voida)
   </p>
   <p style="font-size: 1.15em; margin: 0;">
-    특화 프로젝트 최우수상
+    [특화 프로젝트 최우수상](https://github.com/On-Wear-SSAFY-13)
   </p>
 </p>
 
