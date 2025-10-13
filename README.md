@@ -91,6 +91,11 @@
     Studying at <strong>SSAFY</strong> since January 2025.
   </p>
 
+  <h4 style="font-size: 1.35em; margin-top: 1.4em; margin-bottom: 0.3em;">🏆 Awards</h4>
+  <ul align="left" style="display: inline-block; text-align: left; font-size: 1.15em; line-height: 1.5;">
+    <li><strong>공통 프로젝트 최우수상</strong> — Samsung SW Academy for Youth (SSAFY)</li>
+    <li><strong>특화 프로젝트 최우수상</strong> — Samsung SW Academy for Youth (SSAFY)</li>
+  </ul>
 </div>
 
 
