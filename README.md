@@ -106,7 +106,7 @@
 <p align="center" style="font-size: 1.15em; margin: 0;">
   <a href="https://github.com/RAG-EXTENSION/S407" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
     <strong>자율 프로젝트 (기업연계 프로젝트)</strong><br/>
-    <sub>SSAFY 지역 본선 1위 · 결선 진출</sub>
+    <sub>SSAFY 지역 본선 1위 · 118팀 중 4등</sub>
   </a>
 </p>
 
