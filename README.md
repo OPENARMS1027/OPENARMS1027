@@ -12,7 +12,7 @@
   <a href="https://github.com/lsoul1028" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height: 48px;" />
   </a>
-  <a href="https://rocky-ceres-df3.notion.site/Passion-in-the-heart-reason-in-the-head-27747037078281ebb1f0c4941bd7fe2a" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+  <a href="ENARMS1027/portfolio/blob/master/이진모%20포트폴리오%20v2.pdf" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Portfolio-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
 
   </a>
