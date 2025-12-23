@@ -13,7 +13,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height: 48px;" />
   </a>
   <a href="https://github.com/OPENARMS1027/portfolio/raw/master/%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%86%E1%85%A9%20%E1%84%91%E1%85%A9%E1%84%90%E1%85%B3%E1%84%91%E1%85%A9%E1%86%AF%E1%84%85%E1%85%B5%E1%84%8B%E1%85%A9%20v2.pdf" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Portfolio-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    <img src="https://img.shields.io/badge/Download-Portfolio%20PDF-FF3B3B?style=for-the-badge&logo=download&logoColor=white"
+     style="height: 48px;" />
 
   </a>
 </p>
