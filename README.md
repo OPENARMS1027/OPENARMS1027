@@ -13,7 +13,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="height: 48px;" />
   </a>
   <a href="https://rocky-ceres-df3.notion.site/Passion-in-the-heart-reason-in-the-head-27747037078281ebb1f0c4941bd7fe2a" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" style="height: 48px;" />
+    <img src="https://img.shields.io/badge/Portfolio-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+
   </a>
 </p>
 
