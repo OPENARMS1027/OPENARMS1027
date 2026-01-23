@@ -97,18 +97,18 @@
   <p align="left" style="display: inline-block; text-align: center; font-size: 1.15em; line-height: 1.6; margin: 0 auto;">
   <p align="center" style="font-size: 1.15em; margin: 0;">
   <a href="https://github.com/OPENARMS1027/voida" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-    <strong>공통 프로젝트 최우수상</strong>
+    <strong>삼성 청년 AI 소프트웨어 아카데미 - 1차(공통) 프로젝트 최우수상</strong>
   </a>
 </p>
 <p align="center" style="font-size: 1.15em; margin: 0;">
   <a href="https://github.com/On-Wear-SSAFY-13" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-    <strong>특화 프로젝트 최우수상</strong>
+    <strong>삼성 청년 AI 소프트웨어 아카데미 - 2차(특화) 프로젝트 최우수상</strong>
   </a>
 </p>
 <p align="center" style="font-size: 1.15em; margin: 0;">
   <a href="https://github.com/RAG-EXTENSION/S407" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
-    <strong>자율 프로젝트 (기업연계 프로젝트)</strong><br/>
-    <sub>SSAFY 지역 본선 1위 · 118팀 중 4등</sub>
+    <strong>삼성 청년 AI 소프트웨어 아카데미 3차(자율 프로젝트,기업연계 프로젝트)</strong><br/>
+    <sub>SSAFY 최우수상 및 결선 진출 118팀 중 4등</sub>
   </a>
 </p>
 
