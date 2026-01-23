@@ -90,7 +90,7 @@
 
   <h4 style="font-size: 1.35em; margin-top: 1.2em; margin-bottom: 0.3em;">📚 Activity</h4>
   <p style="font-size: 1.15em; margin: 0;">
-  Completed <strong>SSAFY</strong> (January 2025 – December 2025).
+  Completed <strong>삼성 청년 AI 소프트웨어 아카데미(SSAFY)</strong> (January 2025 – December 2025).
   </p>
 
   <h4 style="font-size: 1.35em; margin-top: 1.4em; margin-bottom: 0.3em;">🏆 Awards</h4>
