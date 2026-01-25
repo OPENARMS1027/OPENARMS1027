@@ -29,7 +29,7 @@
 </p>
 
 <p align="center" style="margin-top: 0.8em;">
-  <a href="mailto:lsoul1028@gmail.com" target="_blank" rel="noopener noreferrer">
+<a href="https://mail.google.com/mail/?view=cm&to=lsoul1028@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" alt="Gmail" style="height: 28px;" />
   </a>
 </p>
