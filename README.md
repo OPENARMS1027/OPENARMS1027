@@ -106,7 +106,7 @@
   </a>
 </p>
 <p align="center" style="font-size: 1.15em; margin: 0;">
-  <a href="[https://github.com/RAG-EXTENSION/S407](https://github.com/OPENARMS1027/S407)" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
+  <a href="https://github.com/OPENARMS1027/S407" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: inherit;">
     <strong>삼성 청년 AI 소프트웨어 아카데미 3차(자율 프로젝트,기업연계 프로젝트)</strong><br/>
     <sub>SSAFY 최우수상 및 결선 진출 118팀 중 4등</sub>
   </a>
